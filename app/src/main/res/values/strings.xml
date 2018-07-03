@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RewardedVideoAd_Frames</string>
+
+
+    <string name="app_id"></string>
+    <string name="banner_Ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_Ad_id_entry">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="rewarded_id">ca-app-pub-3940256099942544/5224354917</string>
+
+</resources>
